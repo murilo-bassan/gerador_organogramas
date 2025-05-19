@@ -1,6 +1,0 @@
-services:
-  - type: web
-    name: gerador-organograma
-    env: python
-    buildCommand: ""
-    startCommand: python app.py
